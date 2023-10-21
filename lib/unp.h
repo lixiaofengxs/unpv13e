@@ -6,6 +6,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <signal.h>
+#include <poll.h>
 
 #include <stdio.h>
 #include <stdlib.h>
